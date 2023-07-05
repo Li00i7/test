@@ -1,9 +1,5 @@
 sdfvscdv
 sdfcasd
-sadfczx
-edftr
-dfbd
-ghsfdgs
-dsfgs
-dfgdfsg
-jmyhfjuy
+sad 
+//Experimenting with Git tracking changes
+Changes1.0
